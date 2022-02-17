@@ -17,7 +17,7 @@ h2 {
 }
 
 section.hero {
-    background-image: url("gymnast_bhs_beam.jpeg");
+    background: hsl(0deg, 0%, 0% /  50%), url("gymnast_bhs_beam.jpeg");
     background-size: 100vw 100vh;
     height: 100vh;
 }
