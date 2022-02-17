@@ -15,3 +15,7 @@ h1 {
 h2 {
   font-size: 4rem;
 }
+
+section.hero {
+    background-image: url("gymnast_bhs_beam.jpeg");
+}
